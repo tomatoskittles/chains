@@ -818,7 +818,7 @@
   "faucets": [],
   "infoURL": "https://www.factory127.com"
 }, {
-  "name": "Matic Mainnet",
+  "name": "Matic(Polygon) Mainnet",
   "chainId": 137,
   "shortName": "matic",
   "networkId": 137,
@@ -827,7 +827,7 @@
     "symbol": "MATIC",
     "decimals": 18
   },
-  "rpc": ["https://rpc-mainnet.matic.network", "wss://ws-mainnet.matic.network"],
+  "rpc": ["https://rpc-mainnet.matic.network", "wss://ws-mainnet.matic.network", "https://rpc-mainnet.matic.quiknode.pro", "https://matic-mainnet.chainstacklabs.com"],
   "faucets": [],
   "infoURL": "https://matic.network/"
 }, {
