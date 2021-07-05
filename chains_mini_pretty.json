@@ -1338,6 +1338,19 @@
   "faucets": [],
   "infoURL": "http://wegochain.io"
 }, {
+  "name": "Palm Testnet",
+  "chainId": 11297108099,
+  "shortName": "tpalm",
+  "networkId": 11297108099,
+  "nativeCurrency": {
+    "name": "PALM",
+    "symbol": "PALM",
+    "decimals": 18
+  },
+  "rpc": [],
+  "faucets": [],
+  "infoURL": "https://palm.io"
+}, {
   "name": "Harmony Testnet Shard 0",
   "chainId": 1666700000,
   "shortName": "hmy-b-s0",
