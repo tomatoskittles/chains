@@ -1982,10 +1982,15 @@
     "symbol": "HT",
     "decimals": 18
   },
-  "infoURL": "https://hecoinfo.com",
+  "infoURL": "https://www.hecochain.com",
   "shortName": "heco",
   "chainId": 128,
-  "networkId": 128
+  "networkId": 128,
+  "explorers": [{
+    "name": "hecoinfo",
+    "url": "https://hecoinfo.com",
+    "standard": "EIP3091"
+  }]
 }, {
   "name": "Clover Testnet",
   "chain": "Clover",
