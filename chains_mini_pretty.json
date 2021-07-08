@@ -209,7 +209,7 @@
 }, {
   "name": "GateChain Testnet",
   "chainId": 85,
-  "shortName": "GTC-T",
+  "shortName": "gttest",
   "networkId": 85,
   "nativeCurrency": {
     "name": "GateToken",
@@ -612,7 +612,7 @@
 }, {
   "name": "GateChain Mainnet",
   "chainId": 86,
-  "shortName": "GTC",
+  "shortName": "gt",
   "networkId": 86,
   "nativeCurrency": {
     "name": "GateToken",
