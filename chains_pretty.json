@@ -59,6 +59,25 @@
   "chainId": 23,
   "networkId": 23
 }, {
+  "name": "QuarkChain Devnet Shard 3",
+  "chain": "QuarkChain",
+  "network": "devnet",
+  "rpc": ["http://jrpc.devnet.quarkchain.io:39003/"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "QKC",
+    "symbol": "QKC",
+    "decimals": 18
+  },
+  "infoURL": "https://www.quarkchain.io/",
+  "shortName": "qkc-d-s3",
+  "chainId": 110004,
+  "networkId": 110004,
+  "parent": {
+    "chain": "eip155-110000",
+    "type": "shard"
+  }
+}, {
   "name": "MathChain Testnet",
   "chain": "MATH",
   "network": "testnet",
@@ -174,6 +193,25 @@
   "shortName": "dstg",
   "chainId": 13,
   "networkId": 13
+}, {
+  "name": "QuarkChain Mainnet Shard 5",
+  "chain": "QuarkChain",
+  "network": "mainnet",
+  "rpc": ["http://jrpc.mainnet.quarkchain.io:39005/"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "QKC",
+    "symbol": "QKC",
+    "decimals": 18
+  },
+  "infoURL": "https://www.quarkchain.io/",
+  "shortName": "qkc-s5",
+  "chainId": 100006,
+  "networkId": 100006,
+  "parent": {
+    "chain": "eip155-100000",
+    "type": "shard"
+  }
 }, {
   "name": "Moonriver Kusama",
   "chain": "MOON",
@@ -673,6 +711,25 @@
   "networkId": 11,
   "slip44": 916
 }, {
+  "name": "QuarkChain Mainnet Shard 3",
+  "chain": "QuarkChain",
+  "network": "mainnet",
+  "rpc": ["http://jrpc.mainnet.quarkchain.io:39003/"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "QKC",
+    "symbol": "QKC",
+    "decimals": 18
+  },
+  "infoURL": "https://www.quarkchain.io/",
+  "shortName": "qkc-s3",
+  "chainId": 100004,
+  "networkId": 100004,
+  "parent": {
+    "chain": "eip155-100000",
+    "type": "shard"
+  }
+}, {
   "name": "Optimistic Ethereum Testnet Goerli",
   "chain": "ETH",
   "network": "goerli",
@@ -836,6 +893,44 @@
   "networkId": 7762959,
   "slip44": 184
 }, {
+  "name": "QuarkChain Mainnet Shard 7",
+  "chain": "QuarkChain",
+  "network": "mainnet",
+  "rpc": ["http://jrpc.mainnet.quarkchain.io:39007/"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "QKC",
+    "symbol": "QKC",
+    "decimals": 18
+  },
+  "infoURL": "https://www.quarkchain.io/",
+  "shortName": "qkc-s7",
+  "chainId": 100008,
+  "networkId": 100008,
+  "parent": {
+    "chain": "eip155-100000",
+    "type": "shard"
+  }
+}, {
+  "name": "QuarkChain Devnet Shard 4",
+  "chain": "QuarkChain",
+  "network": "devnet",
+  "rpc": ["http://jrpc.devnet.quarkchain.io:39004/"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "QKC",
+    "symbol": "QKC",
+    "decimals": 18
+  },
+  "infoURL": "https://www.quarkchain.io/",
+  "shortName": "qkc-d-s4",
+  "chainId": 110005,
+  "networkId": 110005,
+  "parent": {
+    "chain": "eip155-110000",
+    "type": "shard"
+  }
+}, {
   "name": "Aquachain",
   "chain": "AQUA",
   "network": "mainnet",
@@ -881,6 +976,25 @@
   "shortName": "hmy-b-s1",
   "chainId": 1666700001,
   "networkId": 1666700001
+}, {
+  "name": "QuarkChain Devnet Shard 0",
+  "chain": "QuarkChain",
+  "network": "devnet",
+  "rpc": ["http://jrpc.devnet.quarkchain.io:39000/"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "QKC",
+    "symbol": "QKC",
+    "decimals": 18
+  },
+  "infoURL": "https://www.quarkchain.io/",
+  "shortName": "qkc-d-s0",
+  "chainId": 110001,
+  "networkId": 110001,
+  "parent": {
+    "chain": "eip155-110000",
+    "type": "shard"
+  }
 }, {
   "name": "ThaiChain 2.0 ThaiFi",
   "chain": "TCH",
@@ -931,6 +1045,25 @@
   "shortName": "eladid",
   "chainId": 22,
   "networkId": 22
+}, {
+  "name": "QuarkChain Mainnet Shard 4",
+  "chain": "QuarkChain",
+  "network": "mainnet",
+  "rpc": ["http://jrpc.mainnet.quarkchain.io:39004/"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "QKC",
+    "symbol": "QKC",
+    "decimals": 18
+  },
+  "infoURL": "https://www.quarkchain.io/",
+  "shortName": "qkc-s4",
+  "chainId": 100005,
+  "networkId": 100005,
+  "parent": {
+    "chain": "eip155-100000",
+    "type": "shard"
+  }
 }, {
   "name": "MDGL Testnet",
   "chain": "MDGL",
@@ -1342,6 +1475,25 @@
   "chainId": 1666600003,
   "networkId": 1666600003
 }, {
+  "name": "QuarkChain Mainnet Shard 1",
+  "chain": "QuarkChain",
+  "network": "mainnet",
+  "rpc": ["http://jrpc.mainnet.quarkchain.io:39001/"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "QKC",
+    "symbol": "QKC",
+    "decimals": 18
+  },
+  "infoURL": "https://www.quarkchain.io/",
+  "shortName": "qkc-s1",
+  "chainId": 100002,
+  "networkId": 100002,
+  "parent": {
+    "chain": "eip155-100000",
+    "type": "shard"
+  }
+}, {
   "name": "Haic",
   "chain": "Haic",
   "network": "mainnet",
@@ -1565,6 +1717,21 @@
   "networkId": 38,
   "slip44": 538
 }, {
+  "name": "QuarkChain Mainnet Root",
+  "chain": "QuarkChain",
+  "network": "mainnet",
+  "rpc": ["http://jrpc.mainnet.quarkchain.io:38391/"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "QKC",
+    "symbol": "QKC",
+    "decimals": 18
+  },
+  "infoURL": "https://www.quarkchain.io/",
+  "shortName": "qkc-r",
+  "chainId": 100000,
+  "networkId": 100000
+}, {
   "name": "Ethereum Testnet Görli",
   "chain": "ETH",
   "network": "goerli",
@@ -1612,6 +1779,25 @@
   "shortName": "cet",
   "chainId": 52,
   "networkId": 52
+}, {
+  "name": "QuarkChain Devnet Shard 5",
+  "chain": "QuarkChain",
+  "network": "devnet",
+  "rpc": ["http://jrpc.devnet.quarkchain.io:39005/"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "QKC",
+    "symbol": "QKC",
+    "decimals": 18
+  },
+  "infoURL": "https://www.quarkchain.io/",
+  "shortName": "qkc-d-s5",
+  "chainId": 110006,
+  "networkId": 110006,
+  "parent": {
+    "chain": "eip155-110000",
+    "type": "shard"
+  }
 }, {
   "name": "Atheios",
   "chain": "ATH",
@@ -1795,6 +1981,25 @@
   "chainId": 4690,
   "networkId": 4690
 }, {
+  "name": "QuarkChain Devnet Shard 6",
+  "chain": "QuarkChain",
+  "network": "devnet",
+  "rpc": ["http://jrpc.devnet.quarkchain.io:39006/"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "QKC",
+    "symbol": "QKC",
+    "decimals": 18
+  },
+  "infoURL": "https://www.quarkchain.io/",
+  "shortName": "qkc-d-s6",
+  "chainId": 110007,
+  "networkId": 110007,
+  "parent": {
+    "chain": "eip155-110000",
+    "type": "shard"
+  }
+}, {
   "name": "Ethereum Testnet Rinkeby",
   "chain": "ETH",
   "network": "rinkeby",
@@ -1817,6 +2022,25 @@
     "url": "https://rinkeby.etherscan.io",
     "standard": "EIP3091"
   }]
+}, {
+  "name": "QuarkChain Mainnet Shard 0",
+  "chain": "QuarkChain",
+  "network": "mainnet",
+  "rpc": ["http://jrpc.mainnet.quarkchain.io:39000/"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "QKC",
+    "symbol": "QKC",
+    "decimals": 18
+  },
+  "infoURL": "https://www.quarkchain.io/",
+  "shortName": "qkc-s0",
+  "chainId": 100001,
+  "networkId": 100001,
+  "parent": {
+    "chain": "eip155-100000",
+    "type": "shard"
+  }
 }, {
   "name": "Telos EVM Mainnet",
   "chain": "TLOS",
@@ -1953,6 +2177,21 @@
   "shortName": "smartbchtest",
   "chainId": 10001,
   "networkId": 10001
+}, {
+  "name": "QuarkChain Devnet Root",
+  "chain": "QuarkChain",
+  "network": "devnet",
+  "rpc": ["http://jrpc.devnet.quarkchain.io:38391/"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "QKC",
+    "symbol": "QKC",
+    "decimals": 18
+  },
+  "infoURL": "https://www.quarkchain.io/",
+  "shortName": "qkc-d-r",
+  "chainId": 110000,
+  "networkId": 110000
 }, {
   "name": "Aurora TestNet",
   "chain": "NEAR",
@@ -2475,6 +2714,44 @@
   "networkId": 1313114,
   "slip44": 1313114
 }, {
+  "name": "QuarkChain Devnet Shard 1",
+  "chain": "QuarkChain",
+  "network": "devnet",
+  "rpc": ["http://jrpc.devnet.quarkchain.io:39001/"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "QKC",
+    "symbol": "QKC",
+    "decimals": 18
+  },
+  "infoURL": "https://www.quarkchain.io/",
+  "shortName": "qkc-d-s1",
+  "chainId": 110002,
+  "networkId": 110002,
+  "parent": {
+    "chain": "eip155-110000",
+    "type": "shard"
+  }
+}, {
+  "name": "QuarkChain Mainnet Shard 2",
+  "chain": "QuarkChain",
+  "network": "mainnet",
+  "rpc": ["http://jrpc.mainnet.quarkchain.io:39002/"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "QKC",
+    "symbol": "QKC",
+    "decimals": 18
+  },
+  "infoURL": "https://www.quarkchain.io/",
+  "shortName": "qkc-s2",
+  "chainId": 100003,
+  "networkId": 100003,
+  "parent": {
+    "chain": "eip155-100000",
+    "type": "shard"
+  }
+}, {
   "name": "Proton Testnet",
   "chain": "XPR",
   "network": "testnet",
@@ -2658,6 +2935,25 @@
   "chainId": 43113,
   "networkId": 1
 }, {
+  "name": "QuarkChain Devnet Shard 7",
+  "chain": "QuarkChain",
+  "network": "devnet",
+  "rpc": ["http://jrpc.devnet.quarkchain.io:39007/"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "QKC",
+    "symbol": "QKC",
+    "decimals": 18
+  },
+  "infoURL": "https://www.quarkchain.io/",
+  "shortName": "qkc-d-s7",
+  "chainId": 110008,
+  "networkId": 110008,
+  "parent": {
+    "chain": "eip155-110000",
+    "type": "shard"
+  }
+}, {
   "name": "TOOL Global Testnet",
   "chain": "OLO",
   "network": "testnet",
@@ -2703,6 +2999,25 @@
   "shortName": "GooD",
   "chainId": 33,
   "networkId": 33
+}, {
+  "name": "QuarkChain Mainnet Shard 6",
+  "chain": "QuarkChain",
+  "network": "mainnet",
+  "rpc": ["http://jrpc.mainnet.quarkchain.io:39006/"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "QKC",
+    "symbol": "QKC",
+    "decimals": 18
+  },
+  "infoURL": "https://www.quarkchain.io/",
+  "shortName": "qkc-s6",
+  "chainId": 100007,
+  "networkId": 100007,
+  "parent": {
+    "chain": "eip155-100000",
+    "type": "shard"
+  }
 }, {
   "name": "Ethereum Testnet Kovan",
   "chain": "ETH",
@@ -2764,4 +3079,23 @@
   "shortName": "new",
   "chainId": 1012,
   "networkId": 1012
+}, {
+  "name": "QuarkChain Devnet Shard 2",
+  "chain": "QuarkChain",
+  "network": "devnet",
+  "rpc": ["http://jrpc.devnet.quarkchain.io:39002/"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "QKC",
+    "symbol": "QKC",
+    "decimals": 18
+  },
+  "infoURL": "https://www.quarkchain.io/",
+  "shortName": "qkc-d-s2",
+  "chainId": 110003,
+  "networkId": 110003,
+  "parent": {
+    "chain": "eip155-110000",
+    "type": "shard"
+  }
 }]

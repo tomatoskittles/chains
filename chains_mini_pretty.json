@@ -51,6 +51,19 @@
   "faucets": [],
   "infoURL": "https://elaeth.io/"
 }, {
+  "name": "QuarkChain Devnet Shard 3",
+  "chainId": 110004,
+  "shortName": "qkc-d-s3",
+  "networkId": 110004,
+  "nativeCurrency": {
+    "name": "QKC",
+    "symbol": "QKC",
+    "decimals": 18
+  },
+  "rpc": ["http://jrpc.devnet.quarkchain.io:39003/"],
+  "faucets": [],
+  "infoURL": "https://www.quarkchain.io/"
+}, {
   "name": "MathChain Testnet",
   "chainId": 1140,
   "shortName": "tMATH",
@@ -141,6 +154,19 @@
   "rpc": ["https://staging.diode.io:8443/", "wss://staging.diode.io:8443/ws"],
   "faucets": [],
   "infoURL": "https://diode.io/staging"
+}, {
+  "name": "QuarkChain Mainnet Shard 5",
+  "chainId": 100006,
+  "shortName": "qkc-s5",
+  "networkId": 100006,
+  "nativeCurrency": {
+    "name": "QKC",
+    "symbol": "QKC",
+    "decimals": 18
+  },
+  "rpc": ["http://jrpc.mainnet.quarkchain.io:39005/"],
+  "faucets": [],
+  "infoURL": "https://www.quarkchain.io/"
 }, {
   "name": "Moonriver Kusama",
   "chainId": 1285,
@@ -545,6 +571,19 @@
   "faucets": [],
   "infoURL": "https://metadium.com"
 }, {
+  "name": "QuarkChain Mainnet Shard 3",
+  "chainId": 100004,
+  "shortName": "qkc-s3",
+  "networkId": 100004,
+  "nativeCurrency": {
+    "name": "QKC",
+    "symbol": "QKC",
+    "decimals": 18
+  },
+  "rpc": ["http://jrpc.mainnet.quarkchain.io:39003/"],
+  "faucets": [],
+  "infoURL": "https://www.quarkchain.io/"
+}, {
   "name": "Optimistic Ethereum Testnet Goerli",
   "chainId": 420,
   "shortName": "ogor",
@@ -675,6 +714,32 @@
   "faucets": [],
   "infoURL": "https://musicoin.tw"
 }, {
+  "name": "QuarkChain Mainnet Shard 7",
+  "chainId": 100008,
+  "shortName": "qkc-s7",
+  "networkId": 100008,
+  "nativeCurrency": {
+    "name": "QKC",
+    "symbol": "QKC",
+    "decimals": 18
+  },
+  "rpc": ["http://jrpc.mainnet.quarkchain.io:39007/"],
+  "faucets": [],
+  "infoURL": "https://www.quarkchain.io/"
+}, {
+  "name": "QuarkChain Devnet Shard 4",
+  "chainId": 110005,
+  "shortName": "qkc-d-s4",
+  "networkId": 110005,
+  "nativeCurrency": {
+    "name": "QKC",
+    "symbol": "QKC",
+    "decimals": 18
+  },
+  "rpc": ["http://jrpc.devnet.quarkchain.io:39004/"],
+  "faucets": [],
+  "infoURL": "https://www.quarkchain.io/"
+}, {
   "name": "Aquachain",
   "chainId": 61717561,
   "shortName": "aqua",
@@ -714,6 +779,19 @@
   "faucets": [],
   "infoURL": "https://www.harmony.one/"
 }, {
+  "name": "QuarkChain Devnet Shard 0",
+  "chainId": 110001,
+  "shortName": "qkc-d-s0",
+  "networkId": 110001,
+  "nativeCurrency": {
+    "name": "QKC",
+    "symbol": "QKC",
+    "decimals": 18
+  },
+  "rpc": ["http://jrpc.devnet.quarkchain.io:39000/"],
+  "faucets": [],
+  "infoURL": "https://www.quarkchain.io/"
+}, {
   "name": "ThaiChain 2.0 ThaiFi",
   "chainId": 17,
   "shortName": "tfi",
@@ -752,6 +830,19 @@
   "rpc": [],
   "faucets": [],
   "infoURL": "https://www.elastos.org/"
+}, {
+  "name": "QuarkChain Mainnet Shard 4",
+  "chainId": 100005,
+  "shortName": "qkc-s4",
+  "networkId": 100005,
+  "nativeCurrency": {
+    "name": "QKC",
+    "symbol": "QKC",
+    "decimals": 18
+  },
+  "rpc": ["http://jrpc.mainnet.quarkchain.io:39004/"],
+  "faucets": [],
+  "infoURL": "https://www.quarkchain.io/"
 }, {
   "name": "MDGL Testnet",
   "chainId": 8029,
@@ -1091,6 +1182,19 @@
   "faucets": [],
   "infoURL": "https://www.harmony.one/"
 }, {
+  "name": "QuarkChain Mainnet Shard 1",
+  "chainId": 100002,
+  "shortName": "qkc-s1",
+  "networkId": 100002,
+  "nativeCurrency": {
+    "name": "QKC",
+    "symbol": "QKC",
+    "decimals": 18
+  },
+  "rpc": ["http://jrpc.mainnet.quarkchain.io:39001/"],
+  "faucets": [],
+  "infoURL": "https://www.quarkchain.io/"
+}, {
   "name": "Haic",
   "chainId": 803,
   "shortName": "haic",
@@ -1273,6 +1377,19 @@
   "faucets": [],
   "infoURL": "https://valorbit.com"
 }, {
+  "name": "QuarkChain Mainnet Root",
+  "chainId": 100000,
+  "shortName": "qkc-r",
+  "networkId": 100000,
+  "nativeCurrency": {
+    "name": "QKC",
+    "symbol": "QKC",
+    "decimals": 18
+  },
+  "rpc": ["http://jrpc.mainnet.quarkchain.io:38391/"],
+  "faucets": [],
+  "infoURL": "https://www.quarkchain.io/"
+}, {
   "name": "Ethereum Testnet Görli",
   "chainId": 5,
   "shortName": "gor",
@@ -1311,6 +1428,19 @@
   "rpc": ["https://rpc-mainnet.coinex.net"],
   "faucets": [],
   "infoURL": "http://www.coinex.org/"
+}, {
+  "name": "QuarkChain Devnet Shard 5",
+  "chainId": 110006,
+  "shortName": "qkc-d-s5",
+  "networkId": 110006,
+  "nativeCurrency": {
+    "name": "QKC",
+    "symbol": "QKC",
+    "decimals": 18
+  },
+  "rpc": ["http://jrpc.devnet.quarkchain.io:39005/"],
+  "faucets": [],
+  "infoURL": "https://www.quarkchain.io/"
 }, {
   "name": "Atheios",
   "chainId": 1620,
@@ -1468,6 +1598,19 @@
   "faucets": ["https://faucet.iotex.io/"],
   "infoURL": "https://iotex.io"
 }, {
+  "name": "QuarkChain Devnet Shard 6",
+  "chainId": 110007,
+  "shortName": "qkc-d-s6",
+  "networkId": 110007,
+  "nativeCurrency": {
+    "name": "QKC",
+    "symbol": "QKC",
+    "decimals": 18
+  },
+  "rpc": ["http://jrpc.devnet.quarkchain.io:39006/"],
+  "faucets": [],
+  "infoURL": "https://www.quarkchain.io/"
+}, {
   "name": "Ethereum Testnet Rinkeby",
   "chainId": 4,
   "shortName": "rin",
@@ -1480,6 +1623,19 @@
   "rpc": ["https://rinkeby.infura.io/v3/${INFURA_API_KEY}", "wss://rinkeby.infura.io/ws/v3/${INFURA_API_KEY}"],
   "faucets": ["https://faucet.rinkeby.io"],
   "infoURL": "https://www.rinkeby.io"
+}, {
+  "name": "QuarkChain Mainnet Shard 0",
+  "chainId": 100001,
+  "shortName": "qkc-s0",
+  "networkId": 100001,
+  "nativeCurrency": {
+    "name": "QKC",
+    "symbol": "QKC",
+    "decimals": 18
+  },
+  "rpc": ["http://jrpc.mainnet.quarkchain.io:39000/"],
+  "faucets": [],
+  "infoURL": "https://www.quarkchain.io/"
 }, {
   "name": "Telos EVM Mainnet",
   "chainId": 40,
@@ -1597,6 +1753,19 @@
   "rpc": ["https://rpc-testnet.smartbch.org"],
   "faucets": [],
   "infoURL": "http://smartbch.org/"
+}, {
+  "name": "QuarkChain Devnet Root",
+  "chainId": 110000,
+  "shortName": "qkc-d-r",
+  "networkId": 110000,
+  "nativeCurrency": {
+    "name": "QKC",
+    "symbol": "QKC",
+    "decimals": 18
+  },
+  "rpc": ["http://jrpc.devnet.quarkchain.io:38391/"],
+  "faucets": [],
+  "infoURL": "https://www.quarkchain.io/"
 }, {
   "name": "Aurora TestNet",
   "chainId": 1313161555,
@@ -2027,6 +2196,32 @@
   "faucets": [],
   "infoURL": "https://ether1.org"
 }, {
+  "name": "QuarkChain Devnet Shard 1",
+  "chainId": 110002,
+  "shortName": "qkc-d-s1",
+  "networkId": 110002,
+  "nativeCurrency": {
+    "name": "QKC",
+    "symbol": "QKC",
+    "decimals": 18
+  },
+  "rpc": ["http://jrpc.devnet.quarkchain.io:39001/"],
+  "faucets": [],
+  "infoURL": "https://www.quarkchain.io/"
+}, {
+  "name": "QuarkChain Mainnet Shard 2",
+  "chainId": 100003,
+  "shortName": "qkc-s2",
+  "networkId": 100003,
+  "nativeCurrency": {
+    "name": "QKC",
+    "symbol": "QKC",
+    "decimals": 18
+  },
+  "rpc": ["http://jrpc.mainnet.quarkchain.io:39002/"],
+  "faucets": [],
+  "infoURL": "https://www.quarkchain.io/"
+}, {
   "name": "Proton Testnet",
   "chainId": 110,
   "shortName": "xpr",
@@ -2183,6 +2378,19 @@
   "faucets": ["https://faucet.avax-test.network/"],
   "infoURL": "https://cchain.explorer.avax-test.network"
 }, {
+  "name": "QuarkChain Devnet Shard 7",
+  "chainId": 110008,
+  "shortName": "qkc-d-s7",
+  "networkId": 110008,
+  "nativeCurrency": {
+    "name": "QKC",
+    "symbol": "QKC",
+    "decimals": 18
+  },
+  "rpc": ["http://jrpc.devnet.quarkchain.io:39007/"],
+  "faucets": [],
+  "infoURL": "https://www.quarkchain.io/"
+}, {
   "name": "TOOL Global Testnet",
   "chainId": 8724,
   "shortName": "olo",
@@ -2221,6 +2429,19 @@
   "rpc": ["https://rpc.goodata.io"],
   "faucets": [],
   "infoURL": "https://www.goodata.org"
+}, {
+  "name": "QuarkChain Mainnet Shard 6",
+  "chainId": 100007,
+  "shortName": "qkc-s6",
+  "networkId": 100007,
+  "nativeCurrency": {
+    "name": "QKC",
+    "symbol": "QKC",
+    "decimals": 18
+  },
+  "rpc": ["http://jrpc.mainnet.quarkchain.io:39006/"],
+  "faucets": [],
+  "infoURL": "https://www.quarkchain.io/"
 }, {
   "name": "Ethereum Testnet Kovan",
   "chainId": 42,
@@ -2273,4 +2494,17 @@
   "rpc": ["https://global.rpc.mainnet.newtonproject.org"],
   "faucets": [],
   "infoURL": "https://www.newtonproject.org/"
+}, {
+  "name": "QuarkChain Devnet Shard 2",
+  "chainId": 110003,
+  "shortName": "qkc-d-s2",
+  "networkId": 110003,
+  "nativeCurrency": {
+    "name": "QKC",
+    "symbol": "QKC",
+    "decimals": 18
+  },
+  "rpc": ["http://jrpc.devnet.quarkchain.io:39002/"],
+  "faucets": [],
+  "infoURL": "https://www.quarkchain.io/"
 }]
