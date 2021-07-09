@@ -2117,6 +2117,26 @@
   "chainId": 163,
   "networkId": 163
 }, {
+  "name": "Ontology Mainnet",
+  "chain": "Ontology",
+  "network": "mainnet",
+  "rpc": ["https://dappnode1.ont.io:20339", "https://dappnode2.ont.io:20339", "https://dappnode3.ont.io:20339", "https://dappnode4.ont.io:20339"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "ONG",
+    "symbol": "ONG",
+    "decimals": 9
+  },
+  "infoURL": "https://ont.io/",
+  "shortName": "Ontology Mainnet",
+  "chainId": 58,
+  "networkId": 58,
+  "explorers": [{
+    "name": "explorer",
+    "url": "https://explorer.ont.io/",
+    "standard": "EIP3091"
+  }]
+}, {
   "name": "xDAI Chain",
   "chain": "XDAI",
   "network": "mainnet",
@@ -2646,6 +2666,26 @@
   "shortName": "okov",
   "chainId": 69,
   "networkId": 69
+}, {
+  "name": "Ontology Testnet",
+  "chain": "Ontology",
+  "network": "testnet",
+  "rpc": ["https://polaris1.ont.io:20339", "https://polaris2.ont.io:20339", "https://polaris3.ont.io:20339", "https://polaris4.ont.io:20339"],
+  "faucets": ["https://developer.ont.io/"],
+  "nativeCurrency": {
+    "name": "ONG",
+    "symbol": "ONG",
+    "decimals": 9
+  },
+  "infoURL": "https://ont.io/",
+  "shortName": "Ontology Testnet",
+  "chainId": 5851,
+  "networkId": 5851,
+  "explorers": [{
+    "name": "explorer",
+    "url": "https://explorer.ont.io/testnet",
+    "standard": "EIP3091"
+  }]
 }, {
   "name": "ARTIS sigma1",
   "chain": "ARTIS",
