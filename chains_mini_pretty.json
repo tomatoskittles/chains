@@ -1065,6 +1065,58 @@
   "faucets": ["https://faucet-testnet.kcc.network"],
   "infoURL": "https://scan-testnet.kcc.network"
 }, {
+  "name": "Theta Mainnet",
+  "chainId": 361,
+  "shortName": "theta-mainnet",
+  "networkId": 361,
+  "nativeCurrency": {
+    "name": "Theta Fuel",
+    "symbol": "TFUEL",
+    "decimals": 18
+  },
+  "rpc": ["https://eth-rpc-api.thetatoken.org"],
+  "faucets": [],
+  "infoURL": "https://www.thetatoken.org/"
+}, {
+  "name": "Theta Sapphire Testnet",
+  "chainId": 363,
+  "shortName": "theta-sapphire",
+  "networkId": 363,
+  "nativeCurrency": {
+    "name": "Theta Fuel",
+    "symbol": "TFUEL",
+    "decimals": 18
+  },
+  "rpc": ["https://eth-rpc-api-sapphire.thetatoken.org"],
+  "faucets": [],
+  "infoURL": "https://www.thetatoken.org/"
+}, {
+  "name": "Theta Amber Testnet",
+  "chainId": 364,
+  "shortName": "theta-amber",
+  "networkId": 364,
+  "nativeCurrency": {
+    "name": "Theta Fuel",
+    "symbol": "TFUEL",
+    "decimals": 18
+  },
+  "rpc": ["https://eth-rpc-api-amber.thetatoken.org"],
+  "faucets": [],
+  "infoURL": "https://www.thetatoken.org/"
+}, {
+  "name": "Theta Testnet",
+  "chainId": 365,
+  "shortName": "theta-testnet",
+  "networkId": 365,
+  "nativeCurrency": {
+    "name": "Theta Fuel",
+    "symbol": "TFUEL",
+    "decimals": 18
+  },
+  "rpc": ["https://eth-rpc-api-testnet.thetatoken.org"],
+  "faucets": [],
+  "infoURL": "https://www.thetatoken.org/"
+}, {
   "name": "Lisinski",
   "chainId": 385,
   "shortName": "lisinski",
