@@ -935,6 +935,19 @@
   "faucets": [],
   "infoURL": "https://matic.network/"
 }, {
+  "name": "DAX CHAIN",
+  "chainId": 142,
+  "shortName": "dax",
+  "networkId": 142,
+  "nativeCurrency": {
+    "name": "Prodax",
+    "symbol": "DAX",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.prodax.io"],
+  "faucets": [],
+  "infoURL": "https://prodax.io/"
+}, {
   "name": "Lightstreams Testnet",
   "chainId": 162,
   "shortName": "tpht",
