@@ -1460,11 +1460,11 @@
   "shortName": "mriver",
   "networkId": 1285,
   "nativeCurrency": {
-    "name": "River",
-    "symbol": "RIVER",
+    "name": "Moonriver",
+    "symbol": "MOVR",
     "decimals": 18
   },
-  "rpc": [],
+  "rpc": ["https://rpc.moonriver.moonbeam.network", "wss://wss.moonriver.moonbeam.network"],
   "faucets": [],
   "infoURL": "https://moonbeam.network/networks/moonriver/"
 }, {
@@ -1493,6 +1493,19 @@
   "rpc": ["https://rpc.testnet.moonbeam.network", "wss://wss.testnet.moonbeam.network"],
   "faucets": [],
   "infoURL": "https://docs.moonbeam.network/networks/testnet/"
+}, {
+  "name": "Moonshadow Westend",
+  "chainId": 1288,
+  "shortName": "mshadow",
+  "networkId": 1288,
+  "nativeCurrency": {
+    "name": "Moonshadow",
+    "symbol": "MSHD",
+    "decimals": 18
+  },
+  "rpc": [],
+  "faucets": [],
+  "infoURL": "https://docs.moonbeam.network/networks/overview/"
 }, {
   "name": "Catecoin Chain Mainnet",
   "chainId": 1618,
