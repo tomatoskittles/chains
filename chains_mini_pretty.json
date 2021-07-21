@@ -233,6 +233,19 @@
   "faucets": ["https://faucet-testnet.thundercore.com"],
   "infoURL": "https://thundercore.com"
 }, {
+  "name": "Songbird Canary-Network",
+  "chainId": 19,
+  "shortName": "sgb",
+  "networkId": 19,
+  "nativeCurrency": {
+    "name": "Songbird",
+    "symbol": "SGB",
+    "decimals": 18
+  },
+  "rpc": [],
+  "faucets": [],
+  "infoURL": "https://flare.xyz"
+}, {
   "name": "ELA-ETH-Sidechain Mainnet",
   "chainId": 20,
   "shortName": "elaeth",
