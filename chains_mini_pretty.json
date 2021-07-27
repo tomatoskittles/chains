@@ -93,7 +93,7 @@
   "name": "Ubiq Network Mainnet",
   "chainId": 8,
   "shortName": "ubq",
-  "networkId": 88,
+  "networkId": 8,
   "nativeCurrency": {
     "name": "Ubiq Ether",
     "symbol": "UBQ",
