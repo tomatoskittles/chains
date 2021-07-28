@@ -1000,6 +1000,19 @@
   "faucets": ["https://faucet-testnet.hscscan.com/"],
   "infoURL": "https://www.hoosmartchain.com"
 }, {
+  "name": "Latam-Blockchain Resil Testnet",
+  "chainId": 172,
+  "shortName": "resil",
+  "networkId": 172,
+  "nativeCurrency": {
+    "name": "Latam-Blockchain Resil Test Native Token",
+    "symbol": "usd",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.latam-blockchain.com", "wss://ws.latam-blockchain.com"],
+  "faucets": ["https://faucet.latam-blockchain.com"],
+  "infoURL": "https://latam-blockchain.com"
+}, {
   "name": "Freight Trust Network",
   "chainId": 211,
   "shortName": "EDI",
