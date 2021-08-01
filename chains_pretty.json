@@ -1398,7 +1398,7 @@
   "name": "Theta Mainnet",
   "chain": "Theta",
   "network": "mainnet",
-  "rpc": ["https://eth-rpc-api.thetatoken.org"],
+  "rpc": ["https://eth-rpc-api.thetatoken.org/rpc"],
   "faucets": [],
   "nativeCurrency": {
     "name": "Theta Fuel",
@@ -1408,12 +1408,17 @@
   "infoURL": "https://www.thetatoken.org/",
   "shortName": "theta-mainnet",
   "chainId": 361,
-  "networkId": 361
+  "networkId": 361,
+  "explorers": [{
+    "name": "Theta Mainnet Explorer",
+    "url": "https://explorer.thetatoken.org",
+    "standard": "EIP3091"
+  }]
 }, {
   "name": "Theta Sapphire Testnet",
   "chain": "Theta",
   "network": "testnet_sapphire",
-  "rpc": ["https://eth-rpc-api-sapphire.thetatoken.org"],
+  "rpc": ["https://eth-rpc-api-sapphire.thetatoken.org/rpc"],
   "faucets": [],
   "nativeCurrency": {
     "name": "Theta Fuel",
@@ -1423,12 +1428,17 @@
   "infoURL": "https://www.thetatoken.org/",
   "shortName": "theta-sapphire",
   "chainId": 363,
-  "networkId": 363
+  "networkId": 363,
+  "explorers": [{
+    "name": "Theta Sapphire Testnet Explorer",
+    "url": "https://guardian-testnet-sapphire-explorer.thetatoken.org",
+    "standard": "EIP3091"
+  }]
 }, {
   "name": "Theta Amber Testnet",
   "chain": "Theta",
   "network": "testnet_amber",
-  "rpc": ["https://eth-rpc-api-amber.thetatoken.org"],
+  "rpc": ["https://eth-rpc-api-amber.thetatoken.org/rpc"],
   "faucets": [],
   "nativeCurrency": {
     "name": "Theta Fuel",
@@ -1438,12 +1448,17 @@
   "infoURL": "https://www.thetatoken.org/",
   "shortName": "theta-amber",
   "chainId": 364,
-  "networkId": 364
+  "networkId": 364,
+  "explorers": [{
+    "name": "Theta Amber Testnet Explorer",
+    "url": "https://guardian-testnet-amber-explorer.thetatoken.org",
+    "standard": "EIP3091"
+  }]
 }, {
   "name": "Theta Testnet",
   "chain": "Theta",
   "network": "testnet",
-  "rpc": ["https://eth-rpc-api-testnet.thetatoken.org"],
+  "rpc": ["https://eth-rpc-api-testnet.thetatoken.org/rpc"],
   "faucets": [],
   "nativeCurrency": {
     "name": "Theta Fuel",
@@ -1453,7 +1468,12 @@
   "infoURL": "https://www.thetatoken.org/",
   "shortName": "theta-testnet",
   "chainId": 365,
-  "networkId": 365
+  "networkId": 365,
+  "explorers": [{
+    "name": "Theta Testnet Explorer",
+    "url": "https://testnet-explorer.thetatoken.org",
+    "standard": "EIP3091"
+  }]
 }, {
   "name": "Lisinski",
   "chain": "CRO",

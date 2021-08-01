@@ -1113,7 +1113,7 @@
     "symbol": "TFUEL",
     "decimals": 18
   },
-  "rpc": ["https://eth-rpc-api.thetatoken.org"],
+  "rpc": ["https://eth-rpc-api.thetatoken.org/rpc"],
   "faucets": [],
   "infoURL": "https://www.thetatoken.org/"
 }, {
@@ -1126,7 +1126,7 @@
     "symbol": "TFUEL",
     "decimals": 18
   },
-  "rpc": ["https://eth-rpc-api-sapphire.thetatoken.org"],
+  "rpc": ["https://eth-rpc-api-sapphire.thetatoken.org/rpc"],
   "faucets": [],
   "infoURL": "https://www.thetatoken.org/"
 }, {
@@ -1139,7 +1139,7 @@
     "symbol": "TFUEL",
     "decimals": 18
   },
-  "rpc": ["https://eth-rpc-api-amber.thetatoken.org"],
+  "rpc": ["https://eth-rpc-api-amber.thetatoken.org/rpc"],
   "faucets": [],
   "infoURL": "https://www.thetatoken.org/"
 }, {
@@ -1152,7 +1152,7 @@
     "symbol": "TFUEL",
     "decimals": 18
   },
-  "rpc": ["https://eth-rpc-api-testnet.thetatoken.org"],
+  "rpc": ["https://eth-rpc-api-testnet.thetatoken.org/rpc"],
   "faucets": [],
   "infoURL": "https://www.thetatoken.org/"
 }, {
