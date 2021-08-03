@@ -1789,9 +1789,9 @@
     "symbol": "BCH",
     "decimals": 18
   },
-  "rpc": ["https://rpc-mainnet.smartbch.org"],
+  "rpc": ["https://smartbch.greyh.at", "https://rpc-mainnet.smartbch.org", "https://smartbch.fountainhead.cash/mainnet"],
   "faucets": [],
-  "infoURL": "http://smartbch.org/"
+  "infoURL": "https://smartbch.org/"
 }, {
   "name": "Smart Bitcoin Cash Testnet",
   "chainId": 10001,
