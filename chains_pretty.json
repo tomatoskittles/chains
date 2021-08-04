@@ -3131,7 +3131,12 @@
   "infoURL": "https://www.harmony.one/",
   "shortName": "hmy-s0",
   "chainId": 1666600000,
-  "networkId": 1666600000
+  "networkId": 1666600000,
+  "explorers": [{
+    "name": "Harmony Block Explorer",
+    "url": "https://explorer.harmony.one",
+    "standard": "EIP3091"
+  }]
 }, {
   "name": "Harmony Mainnet Shard 1",
   "chain": "Harmony",
@@ -3182,7 +3187,7 @@
   "chain": "Harmony",
   "network": "testnet",
   "rpc": ["https://api.s0.b.hmny.io"],
-  "faucets": [],
+  "faucets": ["https://faucet.pops.one"],
   "nativeCurrency": {
     "name": "ONE",
     "symbol": "ONE",
@@ -3191,7 +3196,12 @@
   "infoURL": "https://www.harmony.one/",
   "shortName": "hmy-b-s0",
   "chainId": 1666700000,
-  "networkId": 1666700000
+  "networkId": 1666700000,
+  "explorers": [{
+    "name": "Harmony Testnet Block Explorer",
+    "url": "https://explorer.pops.one",
+    "standard": "EIP3091"
+  }]
 }, {
   "name": "Harmony Testnet Shard 1",
   "chain": "Harmony",

@@ -2557,7 +2557,7 @@
     "decimals": 18
   },
   "rpc": ["https://api.s0.b.hmny.io"],
-  "faucets": [],
+  "faucets": ["https://faucet.pops.one"],
   "infoURL": "https://www.harmony.one/"
 }, {
   "name": "Harmony Testnet Shard 1",
