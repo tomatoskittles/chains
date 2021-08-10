@@ -1858,6 +1858,19 @@
   "faucets": [],
   "infoURL": "https://ethersocial.org"
 }, {
+  "name": "GoChain Testnet",
+  "chainId": 31337,
+  "shortName": "got",
+  "networkId": 31337,
+  "nativeCurrency": {
+    "name": "GoChain Coin",
+    "symbol": "GO",
+    "decimals": 18
+  },
+  "rpc": ["https://testnet-rpc.gochain.io"],
+  "faucets": [],
+  "infoURL": "https://gochain.io"
+}, {
   "name": "Fusion Mainnet",
   "chainId": 32659,
   "shortName": "fsn",
