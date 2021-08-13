@@ -2326,6 +2326,19 @@
   "faucets": [],
   "infoURL": "https://artis.network"
 }, {
+  "name": "Polis Testnet",
+  "chainId": 333888,
+  "shortName": "sparta",
+  "networkId": 333888,
+  "nativeCurrency": {
+    "name": "tPolis",
+    "symbol": "tPOLIS",
+    "decimals": 18
+  },
+  "rpc": ["https://sparta-rpc.polis.tech"],
+  "faucets": ["https://faucet.polis.tech"],
+  "infoURL": "https://polis.tech"
+}, {
   "name": "Arbitrum Testnet Rinkeby",
   "chainId": 421611,
   "shortName": "arb-rinkeby",
