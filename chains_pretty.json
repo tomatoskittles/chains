@@ -2530,8 +2530,8 @@
   "chainId": 78110,
   "networkId": 78110
 }, {
-  "name": "Matic Testnet Mumbai",
-  "chain": "Matic",
+  "name": "Matic(Polygon) Testnet Mumbai",
+  "chain": "Matic(Polygon)",
   "network": "testnet",
   "rpc": ["https://rpc-mumbai.matic.today", "wss://ws-mumbai.matic.today"],
   "faucets": ["https://faucet.matic.network/"],
@@ -2543,7 +2543,12 @@
   "infoURL": "https://matic.network/",
   "shortName": "maticmum",
   "chainId": 80001,
-  "networkId": 80001
+  "networkId": 80001,
+  "explorers": [{
+    "name": "polygonscan",
+    "url": "https://mumbai.polygonscan.com/",
+    "standard": "EIP3091"
+  }]
 }, {
   "name": "QuarkChain Mainnet Root",
   "chain": "QuarkChain",

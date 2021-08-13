@@ -2040,7 +2040,7 @@
   "faucets": [],
   "infoURL": "https://primusmoney.com"
 }, {
-  "name": "Matic Testnet Mumbai",
+  "name": "Matic(Polygon) Testnet Mumbai",
   "chainId": 80001,
   "shortName": "maticmum",
   "networkId": 80001,
