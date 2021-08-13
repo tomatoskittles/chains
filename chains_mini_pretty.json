@@ -1754,9 +1754,22 @@
   "faucets": [],
   "infoURL": "https://www.kortho.io/"
 }, {
+  "name": "TOOL Global Mainnet",
+  "chainId": 8723,
+  "shortName": "olo",
+  "networkId": 8723,
+  "nativeCurrency": {
+    "name": "TOOL Global",
+    "symbol": "OLO",
+    "decimals": 18
+  },
+  "rpc": ["https://mainnet-web3.wolot.io"],
+  "faucets": [],
+  "infoURL": "https://ibdt.io"
+}, {
   "name": "TOOL Global Testnet",
   "chainId": 8724,
-  "shortName": "olo",
+  "shortName": "tolo",
   "networkId": 8724,
   "nativeCurrency": {
     "name": "TOOL Global",
