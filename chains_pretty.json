@@ -2287,6 +2287,36 @@
   "chainId": 10101,
   "networkId": 10101
 }, {
+  "name": "MetaDot Mainnet",
+  "chain": "MTT",
+  "network": "mainnet",
+  "rpc": ["https://mainnet.metadot.network"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "MetaDot Token",
+    "symbol": "MTT",
+    "decimals": 18
+  },
+  "infoURL": "https://metadot.network",
+  "shortName": "mtt",
+  "chainId": 16000,
+  "networkId": 16000
+}, {
+  "name": "MetaDot Testnet",
+  "chain": "MTTTest",
+  "network": "devnet",
+  "rpc": ["https://testnet.metadot.network"],
+  "faucets": ["https://faucet.metadot.network/"],
+  "nativeCurrency": {
+    "name": "MetaDot Token TestNet",
+    "symbol": "MTT-test",
+    "decimals": 18
+  },
+  "infoURL": "https://metadot.network",
+  "shortName": "mtttest",
+  "chainId": 16001,
+  "networkId": 16001
+}, {
   "name": "Webchain",
   "chain": "WEB",
   "network": "mainnet",

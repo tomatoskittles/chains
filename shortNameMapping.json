@@ -140,6 +140,8 @@
   "smartbch": "eip155:10000",
   "smartbchtest": "eip155:10001",
   "GEN": "eip155:10101",
+  "mtt": "eip155:16000",
+  "mtttest": "eip155:16001",
   "web": "eip155:24484",
   "mintme": "eip155:24734",
   "esn": "eip155:31102",

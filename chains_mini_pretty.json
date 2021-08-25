@@ -1832,6 +1832,32 @@
   "faucets": [],
   "infoURL": "https://www.xixoio.com/"
 }, {
+  "name": "MetaDot Mainnet",
+  "chainId": 16000,
+  "shortName": "mtt",
+  "networkId": 16000,
+  "nativeCurrency": {
+    "name": "MetaDot Token",
+    "symbol": "MTT",
+    "decimals": 18
+  },
+  "rpc": ["https://mainnet.metadot.network"],
+  "faucets": [],
+  "infoURL": "https://metadot.network"
+}, {
+  "name": "MetaDot Testnet",
+  "chainId": 16001,
+  "shortName": "mtttest",
+  "networkId": 16001,
+  "nativeCurrency": {
+    "name": "MetaDot Token TestNet",
+    "symbol": "MTT-test",
+    "decimals": 18
+  },
+  "rpc": ["https://testnet.metadot.network"],
+  "faucets": ["https://faucet.metadot.network/"],
+  "infoURL": "https://metadot.network"
+}, {
   "name": "Webchain",
   "chainId": 24484,
   "shortName": "web",
